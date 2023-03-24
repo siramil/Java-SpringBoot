@@ -1,0 +1,7 @@
+POST http://localhost:8080/submit
+Content-Type: application/json
+
+{
+    "id": 1,
+    "content": "Heliuglo"
+}
